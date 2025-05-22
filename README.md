@@ -18,7 +18,7 @@ This project demonstrates how to integrate LinkedIn's OAuth 2.0 and Media APIs u
 ## 📦 Project Structure
 
 ```
-linkedin-login/
+linkedin-php-integration/
 │
 ├── api/
 │   └── share.php                  # Endpoint to handle post sharing
