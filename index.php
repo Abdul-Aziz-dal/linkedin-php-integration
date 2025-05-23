@@ -10,7 +10,7 @@ if (isset($_SESSION['access_token']) && isset($_SESSION['linkedin_id'])) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Login with LinkedIn page</title>
+    <title>Login with LinkedIn</title>
     <link rel="stylesheet" href="/assets/styles.css">
     <style>
         body {
