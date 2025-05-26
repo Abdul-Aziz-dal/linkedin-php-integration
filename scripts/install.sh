@@ -1,4 +1,9 @@
+
 #!/bin/bash
 set -e
+
+echo "Navigating to /var/www/html"
 cd /var/www/html
-sudo chmod -R 755 .
+
+echo "Setting permissions to 755 recursively"
+chmod -R 755 .
