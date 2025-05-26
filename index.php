@@ -63,7 +63,7 @@ if (isset($_SESSION['access_token']) && isset($_SESSION['linkedin_id'])) {
 <body>
 
     <h1>Welcome to LinkedIn Poster </h1>
-    <p>Click the button below to sign in with LinkedIn and start sharing your posts directly.</p>
+    <p>Click the button below to sign in with LinkedIn and start sharing your posts directly. new deployment done</p>
 
     <a href="login.php" class="login-btn">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
