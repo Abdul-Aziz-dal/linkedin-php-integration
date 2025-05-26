@@ -62,7 +62,7 @@ if (isset($_SESSION['access_token']) && isset($_SESSION['linkedin_id'])) {
 </head>
 <body>
 
-    <h1>Welcome to LinkedIn Poster page</h1>
+    <h1>Welcome to LinkedIn Poster page removed</h1>
     <p>Click the button below to sign in with LinkedIn and start sharing your posts directly.</p>
 
     <a href="login.php" class="login-btn">
